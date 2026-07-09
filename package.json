@@ -1,0 +1,12 @@
+{
+  "name": "stadiumos-ai",
+  "version": "0.1.0",
+  "description": "Stadium Operations Command Center Platform",
+  "type": "module",
+  "scripts": {
+    "dev": "npx -y http-server -p 8080",
+    "test": "node test/run-tests.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
