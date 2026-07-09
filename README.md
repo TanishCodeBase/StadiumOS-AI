@@ -58,19 +58,6 @@ Rather than relying on modern heavyweight frameworks like React or Vue, the enti
 
 ---
 
-## Screenshots
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Digital Twin
-![Digital Twin](screenshots/digital-twin.png)
-
-### AI Decision Panel
-![AI Panel](screenshots/ai-panel.png)
-
----
-
 ## Architecture
 
 The system operates on an event-driven, unidirectional flow:
@@ -147,31 +134,6 @@ StadiumOS-AI/
 
 ---
 
-## Installation
-
-To clone and run StadiumOS AI locally, ensure you have Node.js installed.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/placeholder/StadiumOS-AI.git
-   cd StadiumOS-AI
-   ```
-
-2. Install development dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open the application:
-   Navigate to [http://127.0.0.1:8080](http://127.0.0.1:8080) in your web browser.
-
----
-
 ## Usage
 
 * **Start Simulation**: Click the `START` button in the header toolbar to begin the live event ticks.
@@ -212,15 +174,10 @@ To clone and run StadiumOS AI locally, ensure you have Node.js installed.
 * **Optimized Frustum Filtering**: Spatial GridIndex query checks to prune off-screen elements.
 
 ---
+## Live Demo
 
-## License
+🌐 Live Application:
+https://tanishcodebase.github.io/StadiumOS-AI/
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Author
-
-* **Name**: [Your Name]
-* **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-* **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+📂 GitHub Repository:
+https://github.com/TanishCodeBase/StadiumOS-AI
